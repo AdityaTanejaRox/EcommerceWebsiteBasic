@@ -5,7 +5,7 @@
 }
 body{
   font-family: 'Poppins', sans-serif;
-  background-color: radial-gradient(#fff,#ffd6d6);
+  background-color: radial-gradient(#fff,#5eaaa8);
 }
 .navbar{
   display : flex;
